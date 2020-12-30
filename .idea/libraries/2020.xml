@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="2020">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../蓝桥视频/2020.12-26/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../蓝桥视频/2020.12-26/commons-compress-1.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../蓝桥视频/2020.12-26/poi-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../蓝桥视频/2020.12-26/poi-ooxml-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../蓝桥视频/2020.12-26/poi-ooxml-schemas-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../蓝桥视频/2020.12-26/xmlbeans-3.1.0.jar!/" />
+      <root url="file://$PROJECT_DIR$/../蓝桥视频/2020.12-26" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../蓝桥视频/2020.12-26" recursive="false" />
+  </library>
+</component>
